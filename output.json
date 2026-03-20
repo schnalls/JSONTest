@@ -1,0 +1,22 @@
+[
+  {
+    "firstname" : "Marsha & Jerry",
+    "table" : "1",
+    "lastname" : "Schnall"
+  },
+  {
+    "firstname" : "Sarah & Steven",
+    "lastname" : "Schnall",
+    "table" : "2"
+  },
+  {
+    "lastname" : "Schnall",
+    "table" : "10",
+    "firstname" : "Jacob"
+  },
+  {
+    "lastname" : "Schnall",
+    "firstname" : "Bella",
+    "table" : "10"
+  }
+]
