@@ -1,10 +1,12 @@
 [
 {
+"id": 1,
 "lastname": "Schnall",
 "firstname": "Marsha & Jerry",
 "table": 1
 },
 {
+"id": 2,
 "lastname": "Schnall",
 "firstname": "Sarah & Steve",
 "table": 1
