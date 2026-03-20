@@ -1,22 +1,58 @@
 [
-  {
-    "firstname" : "Marsha & Jerry",
-    "table" : "1",
-    "lastname" : "Schnall"
-  },
-  {
-    "firstname" : "Sarah & Steven",
-    "lastname" : "Schnall",
-    "table" : "2"
-  },
-  {
-    "lastname" : "Schnall",
-    "table" : "10",
-    "firstname" : "Jacob"
-  },
-  {
-    "lastname" : "Schnall",
-    "firstname" : "Bella",
-    "table" : "10"
-  }
+  [
+    {
+      "id" : 1
+    },
+    {
+      "lastname" : "Schnall"
+    },
+    {
+      "firstname" : "Marsha & Jerry"
+    },
+    {
+      "table" : "1"
+    }
+  ],
+  [
+    {
+      "id" : 2
+    },
+    {
+      "lastname" : "Schnall"
+    },
+    {
+      "firstname" : "Sarah & Steven"
+    },
+    {
+      "table" : "2"
+    }
+  ],
+  [
+    {
+      "id" : 3
+    },
+    {
+      "lastname" : "Schnall"
+    },
+    {
+      "firstname" : "Jacob"
+    },
+    {
+      "table" : "10"
+    }
+  ],
+  [
+    {
+      "id" : 4
+    },
+    {
+      "lastname" : "Schnall"
+    },
+    {
+      "firstname" : "Bella"
+    },
+    {
+      "table" : "10"
+    }
+  ]
 ]
